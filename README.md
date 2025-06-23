@@ -14,10 +14,6 @@ JavaScript – for dynamic functionality and currency conversion logic
 <br>
 Convert between major world currencies
 <br>
-User-friendly interface with clean and responsive design
-<br>
-Real-time conversion (with static or live exchange rate, based on your setup)
-<br>
 Simple and easy-to-understand code for beginners
 
 📸 Preview
