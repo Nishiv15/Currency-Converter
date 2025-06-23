@@ -1,6 +1,6 @@
 # Currency Converter
-A simple and interactive Currency Converter web application that allows users to convert one currency to another in real-time. It can convert almost every currency pair.
-<br>
+A simple and interactive Currency Converter web application that allows users to convert one currency to another in real-time. It can convert almost every currency pair. This is done by fetching currency converting API.
+
 🛠 Technologies Used
 <br>
 HTML – for structuring the webpage
